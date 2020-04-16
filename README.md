@@ -1,2 +1,0 @@
-# ReactStateAndProps
-Created with CodeSandbox
